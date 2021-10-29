@@ -45,3 +45,7 @@ Même si les paramètres et les mecanismes de ces modèles sont differents, mais
 Par exemple ci-dessous vous retrouvez l'utilisation d'un modèle de régression lineaire et d'arbre de décision.
 
 ![image 10](images/10.png)
+
+## La régression Lineaire
+
+![image 11](images/11.png)
