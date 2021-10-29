@@ -53,3 +53,6 @@ Par exemple ci-dessous vous retrouvez l'utilisation d'un modèle de régression 
 ## Evaluation du modèle
 
 ![image 12](images/12.png)
+## Prédiction du modèle
+
+![image 13](images/13.png)
