@@ -40,3 +40,8 @@ Pour créer un modèle, on crée un objet de la classe correspondante:
 Même si les paramètres et les mecanismes de ces modèles sont differents, mais ils ont les mêmes interfaces d'interaction.
 
 ![image 9](images/9.png)
+
+## Exemple 
+Par exemple ci-dessous vous retrouvez l'utilisation d'un modèle de régression lineaire et d'arbre de décision.
+
+![image 10](images/10.png)
