@@ -5,3 +5,7 @@ Le Machine Learning peut être défini comme étant une technologie d’intellig
 Le Machine Learning consiste à développer un modèle mathematique à partir des données expérimentales.
 
 ![image 1](images/1.png)
+
+## Techniques de Machine Learning
+
+![image 2](images/2.png)
