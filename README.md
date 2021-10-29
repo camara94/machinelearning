@@ -66,8 +66,6 @@ Par exemple ci-dessous vous retrouvez l'utilisation d'un modèle de régression 
 ![image 16](images/16.png)
 
 ![image 17](images/17.png)
-
-
 ## Comment chosir l'algorithme aproprié
 
 ![ml](images/ml_map.png)
