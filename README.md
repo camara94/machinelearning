@@ -29,3 +29,9 @@ Le Machine Learning consiste à développer un modèle mathematique à partir de
 ## Regression et classification
 
 ![image 7](images/7.png)
+
+## Création de modèle en SKLEARN en Python
+
+Pour créer un modèle, on crée un objet de la classe correspondante:
+
+![image 8](images/8.png)
