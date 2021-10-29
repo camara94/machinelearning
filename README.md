@@ -35,3 +35,8 @@ Le Machine Learning consiste à développer un modèle mathematique à partir de
 Pour créer un modèle, on crée un objet de la classe correspondante:
 
 ![image 8](images/8.png)
+
+## Interface des modèle
+Même si les paramètres et les mecanismes de ces modèles sont differents, mais ils ont les mêmes interfaces d'interaction.
+
+![image 9](images/9.png)
