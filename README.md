@@ -18,3 +18,6 @@ Le Machine Learning consiste à développer un modèle mathematique à partir de
 
 ![image 4](images/4.png)
 
+## Optimisation de l'algorithme
+
+![image 5](images/5.png)
