@@ -56,3 +56,13 @@ Par exemple ci-dessous vous retrouvez l'utilisation d'un modèle de régression 
 ## Prédiction du modèle
 
 ![image 13](images/13.png)
+
+## Le code de quelques modèle
+
+![image 14](images/14.png)
+
+![image 15](images/15.png)
+
+![image 16](images/16.png)
+
+![image 17](images/17.png)
