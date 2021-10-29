@@ -49,3 +49,7 @@ Par exemple ci-dessous vous retrouvez l'utilisation d'un modèle de régression 
 ## La régression Lineaire
 
 ![image 11](images/11.png)
+
+## Evaluation du modèle
+
+![image 12](images/12.png)
